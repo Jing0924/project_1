@@ -1,5 +1,2 @@
-hello world
-hi
-jing
-yao
-liao
+Hello world!
+I'm Jing.
